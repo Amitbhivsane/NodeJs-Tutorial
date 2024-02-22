@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "color": "^4.2.3",
+    "mongoose": "^6.9.0"
+  }
+}
